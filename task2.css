@@ -1,0 +1,36 @@
+.site-header {
+    padding: 20px 0px;
+}
+
+.site-header-inner {
+    padding: 0px 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contents-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-logo img {
+    height: 20px;
+    width: auto;
+}
+
+.hover-opacity:hover {
+    opacity: 0.5;
+}
+
+.header-nav-list {
+    list-style: none;
+    align-items: center;
+}
+
+.navi-item {
+    display: block;
+    list-style: none;
+    text-align: center;
+    height: 40px;
+    margin-left: 20px;
+}
